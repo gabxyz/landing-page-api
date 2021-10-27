@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_cards",
+  "info": {
+    "name": "card",
+    "icon": "dice-one"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
